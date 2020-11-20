@@ -1,0 +1,16 @@
+:root {
+    --main-text: #fff;
+    --secondary-text: #eeeeee;
+
+    --main-color: #606B56;
+    --secondary-color: #161914;
+
+    --border-color: #164D56;;
+
+    --theme-dot-border: #FFF;
+
+    --preview-bg: rgba(81, 90, 72, .8);
+    --preview-shadow: #2a2f25;
+
+    --btn-color: #669966;
+}
